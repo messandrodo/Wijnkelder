@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Sander_doggen_herexamen_wijnkelder:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sander_doggen_herexamen_wijnkelder_war</output-path>
+    <root id="archive" name="Sander_doggen_herexamen_wijnkelder_war.war">
+      <element id="artifact" artifact-name="Wijnkelder:war exploded" />
+    </root>
+  </artifact>
+</component>
